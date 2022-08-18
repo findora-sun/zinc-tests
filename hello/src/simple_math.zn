@@ -1,0 +1,4 @@
+/// Returns x^3.
+fn cube(x: u64) -> u64 {
+    x * x * x
+}
