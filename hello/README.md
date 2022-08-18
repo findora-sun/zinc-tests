@@ -1,5 +1,3 @@
-# Curve on Zinc
+# Test Zinc
 
-The **Curve Stableswap** smart contract implementation in **Zinc v0.2.2**.
-
-The official [Zinc book](https://zinc.zksync.io/).
+`zargo run --method deposit` change the data/input.json `arguments`, and run.
