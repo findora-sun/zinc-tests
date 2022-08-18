@@ -1,0 +1,8 @@
+# Build and data
+/target/
+/data/proving_key
+/data/verifying_key
+/private_key
+
+# ZCli
+/.zcli-config.json
